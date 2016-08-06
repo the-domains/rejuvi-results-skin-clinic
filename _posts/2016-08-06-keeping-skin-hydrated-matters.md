@@ -1,4 +1,11 @@
 ---
+datePublished: '2016-08-06T06:12:28.974Z'
+sourcePath: _posts/2016-08-06-keeping-skin-hydrated-matters.md
+author: []
+via: {}
+dateModified: '2016-08-06T06:12:28.829Z'
+title: Keeping Skin Hydrated Matters
+publisher: {}
 description: >-
   Your skin is the foundation of your beauty. If you want to have skin that is
   amazingly beautiful, you will need to start with ensuring that you skin is
@@ -8,14 +15,7 @@ description: >-
   deep green color and look full of life.The same is true for your skin. No
   matter what it looks like today, it can likely have improvement through
   hydration.
-dateModified: '2016-08-06T04:25:58.386Z'
-datePublished: '2016-08-06T04:26:18.412Z'
-title: Keeping Skin Hydrated Matters
-author: []
-publisher: {}
-via: {}
 starred: true
-sourcePath: _posts/2016-08-06-keeping-skin-hydrated-matters.md
 inFeed: true
 hasPage: false
 inNav: false
