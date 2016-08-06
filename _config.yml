@@ -1,19 +1,21 @@
-typography_spectrum: 0.5965255449991673
+typography_spectrum: 0.4318080134689808
 color:
-  brandStrength: 0.29386655683629215
-  lightness: 0.34740073163993657
-  saturation: 0.646064639557153
-  rhythmicContrast: 0.5056144923437387
+  brandStrength: 0.5030672319699079
+  lightness: 0.4171042125672102
+  saturation: 0.43335546599701047
+  rhythmicContrast: 0.4082125669810921
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-layout_spectrum: 0.6738070447463542
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+layout_spectrum: 0.9866530823055655
 name: rejuvi results skin clinic
 navigation:
   - name: getting to know us....
     url: 'http://rejuviresults.com.au'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d09f7de7-eb20-4979-ad6c-586b368e3033.png
 title: recapture the beauty of self-confidence
