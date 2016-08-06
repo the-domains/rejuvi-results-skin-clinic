@@ -12,10 +12,7 @@ color:
     - '#E376B7'
 layout_spectrum: 0.9866530823055655
 name: rejuvi results skin clinic
-navigation:
-  - name: getting to know us....
-    url: 'http://rejuviresults.com.au'
-    type: external
+navigation: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d09f7de7-eb20-4979-ad6c-586b368e3033.png
 title: recapture the beauty of self-confidence
