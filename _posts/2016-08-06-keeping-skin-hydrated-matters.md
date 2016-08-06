@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-06T06:12:28.974Z'
+datePublished: '2016-08-06T06:13:33.417Z'
 sourcePath: _posts/2016-08-06-keeping-skin-hydrated-matters.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-06T06:12:28.829Z'
+dateModified: '2016-08-06T06:13:32.388Z'
 title: Keeping Skin Hydrated Matters
 publisher: {}
 description: >-
@@ -12,14 +13,12 @@ description: >-
   hydrated. Consider a plant. When the plant's leaves get dry,they start to
   crack and they show their age. The good news is that even with plants, as the
   leaves are fully hydrated and are regularly hydrated, they will start to get a
-  deep green color and look full of life.The same is true for your skin. No
+  deep green color and look full of life. The same is true for your skin. No
   matter what it looks like today, it can likely have improvement through
   hydration.
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: keeping-skin-hydrated-matters/index.html
+_type: Blurb
 
 ---
 ![Skin Hydration](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b8259dc-aabf-427b-be57-35471d2dc676.jpg)
